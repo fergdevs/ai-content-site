@@ -2,3 +2,5 @@ baseURL = "https://fergdevs.github.io/ai-content-site/"
 languageCode = 'en-us'
 title = 'AI Affiliate Blog'
 theme = 'PaperMod'
+[params.assets]
+disableFingerprinting = true
